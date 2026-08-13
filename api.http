@@ -1,0 +1,4 @@
+POST http://localhost:8080/api/bpm
+Content-Type: application/json
+
+[0, 600, 1000, 1500]
